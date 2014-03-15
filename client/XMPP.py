@@ -1,7 +1,7 @@
 '''
 Created on Oct 3, 2013
 
-@author: gaolong
+@author: olehlong
 '''
 import sleekxmpp
 

@@ -3,7 +3,7 @@
 '''
 Created on Oct 2, 2013
 
-@author: gaolong
+@author: olehlong
 '''
 from client.GLChat import GLChatView
 
