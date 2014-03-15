@@ -10,3 +10,4 @@ Requirements:
 1. sqlite
 2. python-gtk
 3. [sleekxmpp](https://github.com/fritzy/SleekXMPP)
+4. numpy
